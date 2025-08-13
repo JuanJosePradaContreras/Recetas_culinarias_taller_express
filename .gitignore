@@ -19,13 +19,16 @@ coverage/
 .DS_Store
 Thumbs.db
 
-# Cache de Node
+# Cachés y temporales
 .cache/
 .tmp/
 
-# Salida de compilación (por si usas transpilers o build)
+# Salida de compilación (si existiera)
 dist/
 build/
+
+# Configuración local de VSCode (opcional)
+.vscode/
 
 # Archivos de Insomnia/Postman (si no quieres compartirlos)
 *.insomnia
