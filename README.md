@@ -21,7 +21,7 @@ npm install
 ```env
 MONGO_URI=mongodb://localhost:27017
 DB_NAME=recetas_culinarias
-PORT=3000
+PORT=5000
 ```
 
 4. **Insertar datos de prueba**
